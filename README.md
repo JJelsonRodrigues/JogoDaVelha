@@ -1,3 +1,3 @@
-#   MADC
+#   README
 
 Projeto do Curso Java, Lógica de Programação II - Edutech.
